@@ -24,6 +24,7 @@
     "crypto": "1.0.1",
     "path": "latest",
     "node-fetch": "latest",
+    "node-cache": "latest",
     "https": "1.0.0",
     "megajs": "latest",
     "vm": "latest",
